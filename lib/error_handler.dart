@@ -67,7 +67,7 @@ class HomePage extends StatelessWidget {
           onPressed: () {
             throw Exception("This is a test error!");
           },
-          child: const Text("Generate Error"),
+          child: const Text("Generate Error !!"),
         ),
       ),
     );
